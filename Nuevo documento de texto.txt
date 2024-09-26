@@ -2,3 +2,5 @@ italia
 peru
 irlanda
 findlandia
+Croacia
+Suiza
